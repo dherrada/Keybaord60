@@ -1,0 +1,17 @@
+bottom: 1x2mm
+usb_cutout: 2x3 1x4.5
+middle: 1x3mm
+plate_gasket: 1x1.6mm brass
+middle: 2x3mm
+top: 1x2mm clear
+
+
+stand_middle: 4x3mm
+stand_bottom: 1x3mm
+14, 23, 26
+17, 26, 29
+12.5, 21.5, 24.5
+15.5, 24.5, 27.5
+
+a=140
+b=15
